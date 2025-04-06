@@ -1,4 +1,4 @@
-# Projects
+# cis335 labs
 I am a data scientist working for a retail company. The company is interested in under-
 standing customer purchasing patterns to create targeted marketing strategies. My task
 
